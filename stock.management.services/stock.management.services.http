@@ -1,0 +1,6 @@
+@stock.management.services_HostAddress = http://localhost:5296
+
+GET {{stock.management.services_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
