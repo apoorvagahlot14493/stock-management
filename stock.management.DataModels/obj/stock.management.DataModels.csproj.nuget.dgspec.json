@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkArea\\stock-management\\stock.management.services\\stock.management.services.csproj": {}
+    "C:\\WorkArea\\stock-management\\stock.management.DataModels\\stock.management.DataModels.csproj": {}
   },
   "projects": {
-    "C:\\WorkArea\\stock-management\\stock.management.services\\stock.management.services.csproj": {
+    "C:\\WorkArea\\stock-management\\stock.management.DataModels\\stock.management.DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkArea\\stock-management\\stock.management.services\\stock.management.services.csproj",
-        "projectName": "stock.management.services",
-        "projectPath": "C:\\WorkArea\\stock-management\\stock.management.services\\stock.management.services.csproj",
+        "projectUniqueName": "C:\\WorkArea\\stock-management\\stock.management.DataModels\\stock.management.DataModels.csproj",
+        "projectName": "stock.management.DataModels",
+        "projectPath": "C:\\WorkArea\\stock-management\\stock.management.DataModels\\stock.management.DataModels.csproj",
         "packagesPath": "C:\\Users\\apoorva.gahlot\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkArea\\stock-management\\stock.management.services\\obj\\",
+        "outputPath": "C:\\WorkArea\\stock-management\\stock.management.DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,26 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[9.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.3, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -81,9 +61,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
