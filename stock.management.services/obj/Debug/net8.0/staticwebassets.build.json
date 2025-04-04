@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UcqY/9lqwJVxJhLhnRRHP1WLa4pUAjQVa47JnTqER6U=",
+  "Source": "stock.management.services",
+  "BasePath": "_content/stock.management.services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

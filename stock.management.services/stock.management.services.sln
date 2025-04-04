@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stock.management.DataModels
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stock.management.BusinessModel", "..\stock.management.BusinessModel\stock.management.BusinessModel.csproj", "{C4BFE918-7AF3-4A01-8E98-0B55F3E814CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stock.management.DataAccess", "..\stock.management.DataAccess\stock.management.DataAccess.csproj", "{00142548-0D16-4CA5-9B71-F1CED616A08D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C4BFE918-7AF3-4A01-8E98-0B55F3E814CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4BFE918-7AF3-4A01-8E98-0B55F3E814CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BFE918-7AF3-4A01-8E98-0B55F3E814CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00142548-0D16-4CA5-9B71-F1CED616A08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00142548-0D16-4CA5-9B71-F1CED616A08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00142548-0D16-4CA5-9B71-F1CED616A08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00142548-0D16-4CA5-9B71-F1CED616A08D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

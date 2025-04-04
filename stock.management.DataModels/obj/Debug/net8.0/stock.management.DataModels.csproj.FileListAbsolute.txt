@@ -1,0 +1,15 @@
+C:\WorkArea\stock-management\stock.management.DataModels\bin\Debug\net8.0\stock.management.DataModels.exe
+C:\WorkArea\stock-management\stock.management.DataModels\bin\Debug\net8.0\stock.management.DataModels.deps.json
+C:\WorkArea\stock-management\stock.management.DataModels\bin\Debug\net8.0\stock.management.DataModels.runtimeconfig.json
+C:\WorkArea\stock-management\stock.management.DataModels\bin\Debug\net8.0\stock.management.DataModels.dll
+C:\WorkArea\stock-management\stock.management.DataModels\bin\Debug\net8.0\stock.management.DataModels.pdb
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.AssemblyInfoInputs.cache
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.AssemblyInfo.cs
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.csproj.CoreCompileInputs.cache
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.sourcelink.json
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.dll
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\refint\stock.management.DataModels.dll
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.pdb
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\stock.management.DataModels.genruntimeconfig.cache
+C:\WorkArea\stock-management\stock.management.DataModels\obj\Debug\net8.0\ref\stock.management.DataModels.dll
